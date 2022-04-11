@@ -4,6 +4,8 @@ const app = express();
 
 const port = 3000;
 
+console.log('pre-start');
+
 app.get('/', (req, res) => {
     res.sendFile('static/index.html', { root: __dirname });
 });
