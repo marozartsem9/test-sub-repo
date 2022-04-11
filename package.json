@@ -1,0 +1,19 @@
+{
+  "name": "test-sub-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marozartsem9/test-sub-repo.git"
+  },
+  "author": "artsem.maroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marozartsem9/test-sub-repo/issues"
+  },
+  "homepage": "https://github.com/marozartsem9/test-sub-repo#readme"
+}
