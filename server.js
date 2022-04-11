@@ -7,7 +7,7 @@ const port = 3000;
 console.log('pre-start');
 
 app.get('/', (req, res) => {
-    res.sendFile('static/index.html', { root: __dirname });
+    res.sendFile('publick/index.html', { root: __dirname });
 });
 
 app.listen(port, () => console.log(`listening on port ${port}!`));
