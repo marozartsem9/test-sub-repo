@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marozartsem9/test-sub-repo/issues"
   },
-  "homepage": "https://github.com/marozartsem9/test-sub-repo#readme"
+  "homepage": "https://github.com/marozartsem9/test-sub-repo#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
